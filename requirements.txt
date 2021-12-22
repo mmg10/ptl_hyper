@@ -26,6 +26,7 @@ idna==3.3
 importlib-metadata==4.10.0
 importlib-resources==5.4.0
 iniconfig==1.1.1
+iterative-stratification==0.1.7
 joblib==1.1.0
 Mako==1.1.6
 Markdown==3.3.6
